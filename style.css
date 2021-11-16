@@ -1,0 +1,32 @@
+body{
+    background-image: url("photos/station.jpg") ;
+   
+    background-size: cover;
+   
+}
+h1{
+    color: rgb(255, 9, 42);
+    text-align: center;
+    font-size: 200px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h2{
+    color: cornsilk;
+    text-align: center;
+    font-size: 200px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    
+}
+button{
+    width: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    font-size: 100px;
+    margin-left: 25%;
+    background-color: red;
+}
