@@ -1,19 +1,4 @@
-/*
-let myAge = 19
-console.log(myAge)
-let humanDogRatio = 10
-let myDogAge = myAge * humanDogRatio;
-console.log(myDogAge)
 
-let bonusPoints = 50;
-bonusPoints = bonusPoints + 50 ;
-console.log(bonusPoints)
-bonusPoints = bonusPoints - 75;
-bonusPoints = bonusPoints + 45;
-
-console.log(bonusPoints)
-
-*/
 let countdown = document.getElementById("countEl")
 console.log(countdown)
 let count = 0
